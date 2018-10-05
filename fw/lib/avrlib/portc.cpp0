@@ -1,0 +1,5 @@
+#define AVRLIB_PORT_CPP
+
+#include "portc.hpp"
+
+const uint8_t avrlib::portc::id = 14;
